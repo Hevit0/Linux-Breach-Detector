@@ -1,0 +1,8 @@
+Dec 10 10:00:01 server sshd[123]: Failed password for root from 192.168.1.50 port 22 ssh2
+Dec 10 10:00:02 server sshd[123]: Accepted password for hevit from 192.168.1.10 port 22 ssh2
+Dec 10 10:00:05 server sshd[123]: Failed password for admin from 10.0.0.5 port 22 ssh2
+Dec 10 10:00:06 server sshd[123]: Failed password for root from 192.168.1.50 port 22 ssh2
+Dec 10 10:00:07 server sshd[123]: Failed password for root from 192.168.1.50 port 22 ssh2
+Dec 10 10:05:00 server sshd[123]: Failed password for user1 from 45.33.22.11 port 22 ssh2
+Dec 10 10:05:01 server sshd[123]: Failed password for user1 from 45.33.22.11 port 22 ssh2
+Dec 10 10:06:00 server sshd[123]: Failed password for root from 192.168.1.50 port 22 ssh2
