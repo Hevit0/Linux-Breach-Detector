@@ -24,7 +24,7 @@ A lightweight Bash script designed for System Administrators and SOC Analysts to
 
 📊 Example Output
 SUSPECTS IDENTIFIED ( Attempts - IP Address )
----------------------------------------------------
+-------------------------------------------
    4 192.168.1.50
    2 45.33.22.11
    1 10.0.0.5
