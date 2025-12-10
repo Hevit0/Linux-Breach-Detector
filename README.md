@@ -23,12 +23,14 @@ A lightweight Bash script designed for System Administrators and SOC Analysts to
    git clone [https://github.com/](https://github.com/)[Hevit0]/Linux-Breach-Detector.git
 
 📊 Example Output
+
+```text
 SUSPECTS IDENTIFIED ( Attempts - IP Address )
--------------------------------------------
+---------------------------------------------------
    4 192.168.1.50
    2 45.33.22.11
    1 10.0.0.5
-
+```
 ⚙️ Requirements
 Linux / Unix / macOS Terminal
 
